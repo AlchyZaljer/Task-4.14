@@ -6,6 +6,6 @@
 
 Параметр ***-b*** объединяет команды **git branch** и **git checkout**:
 
-```
+```bash=
 git checkout -b [наименование]
 ```
